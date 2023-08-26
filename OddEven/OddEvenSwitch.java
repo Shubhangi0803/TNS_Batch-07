@@ -1,4 +1,4 @@
-//Check weather entered number is odd or even using if-else.
+//Check weather entered number is odd or even using switch case.
 import java.util.*;
 public class OddEvenSwitch {
 public static void main(String args[])
